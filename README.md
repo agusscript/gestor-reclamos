@@ -8,7 +8,6 @@ Trabajo Práctico integrador final - Grupo 19
 - Lucas Ruiz
 - Giovanni Percara
 - Annoni Julian
-- Sanchez Daniela
 - Sanchez Agustin
 
 ## Levantar el proyecto localmente
